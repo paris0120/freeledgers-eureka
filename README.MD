@@ -1,5 +1,5 @@
 # Free Ledgers - Eureka
-Eureka server serves as the registration server for Free Ledgers. This server must be online first before other client servers can start. The default values are:
+Eureka server serves as the registration server for the Free Ledgers project(https://github.com/paris0120/freeledgers). This server must be online first before other client servers can start. The default values are:
 1. username: user
 2. password: password
 3. port: 1111
