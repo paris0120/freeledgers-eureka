@@ -1,0 +1,15 @@
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+server:
+  port: 1111
+spring:
+  security:
+    basic:
+      enabled: true
+    user:
+      name: user
+      password: password
